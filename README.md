@@ -8,3 +8,6 @@ CALC
 
 GCD
 [![asciicast](https://asciinema.org/a/AoZ56964CrKcLmdszKu2zItwn.svg)](https://asciinema.org/a/AoZ56964CrKcLmdszKu2zItwn)
+
+PROGRESSION
+[![asciicast](https://asciinema.org/a/tTLmhmfp71jG3XZcF5BSVAR5S.svg)](https://asciinema.org/a/tTLmhmfp71jG3XZcF5BSVAR5S)
