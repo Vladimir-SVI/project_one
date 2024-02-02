@@ -5,3 +5,6 @@ EVEN
 
 CALC
 [![asciicast](https://asciinema.org/a/17OGk9Nrnr6EIhqELOy5xF8l6.svg)](https://asciinema.org/a/17OGk9Nrnr6EIhqELOy5xF8l6)
+
+GCD
+[![asciicast](https://asciinema.org/a/AoZ56964CrKcLmdszKu2zItwn.svg)](https://asciinema.org/a/AoZ56964CrKcLmdszKu2zItwn)
