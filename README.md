@@ -2,3 +2,6 @@
 
 EVEN
 [![asciicast](https://asciinema.org/a/kQWZ7ZolBlLzCP4xALDa58sB5.svg)](https://asciinema.org/a/kQWZ7ZolBlLzCP4xALDa58sB5)
+
+CALC
+[![asciicast](https://asciinema.org/a/17OGk9Nrnr6EIhqELOy5xF8l6.svg)](https://asciinema.org/a/17OGk9Nrnr6EIhqELOy5xF8l6)
